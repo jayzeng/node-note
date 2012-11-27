@@ -1,0 +1,10 @@
+{
+  "name": "demo",
+  "description": "demo code to illustrate how to unit test",
+  "version": "0.0.1",
+  "dependencies": {
+    "jasmine-node" : "1.0.26",
+    "cookies" : "*"
+  },
+  "private": "true"
+}
